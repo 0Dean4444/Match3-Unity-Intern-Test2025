@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\assets\\scripts\\controllers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\assets\\scripts\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\assets\\scripts\\ui\\uipanelmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uipanelmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\assets\\scripts\\ui\\uimainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\ui\\uipanelgameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uipanelgameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\assets\\scripts\\board\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Board\\Cell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Board\\Cell.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Board\\Cell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Board\\Cell.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:32:35.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIPanelGameOver.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIPanelGameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIPanelGameOver.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIPanelGameOver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIPanelGameOver.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:46:38.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIPanelMain.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIPanelMain.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIPanelMain.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIPanelMain.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIPanelMain.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:46:09.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIMainManager.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIMainManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIMainManager.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIMainManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIMainManager.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwFcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:44:33.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoardController.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Controllers\\BoardController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\BoardController.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Controllers\\BoardController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\BoardController.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAuwOAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:44:07.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Controllers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\GameManager.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Controllers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\GameManager.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:41:51.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

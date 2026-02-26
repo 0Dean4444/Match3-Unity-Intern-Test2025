@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\eswipedirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eswipedirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\utility\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utility\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\utilities\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\ui\\uitogglesound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uitogglesound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\ui\\uipanelwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uipanelwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\ui\\uipanelpause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uipanelpause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\ui\\uipanelmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uipanelmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\ui\\uipanelgameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uipanelgameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\ui\\uipanelgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uipanelgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\ui\\uimainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\ui\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209D4E36-8F49-5767-5CB7-A09F7F7BBA39}|Assembly-CSharp-Editor.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\editor\\maintoolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209D4E36-8F49-5767-5CB7-A09F7F7BBA39}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\maintoolmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\controllers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\board\\normalitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board\\normalitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\board\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\board\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|c:\\users\\tranl\\downloads\\match3-unity-intern-test2025\\assets\\scripts\\board\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5CBD56-4669-BEA4-B95B-57A3F4FA0640}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "eSwipeDirection.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\eSwipeDirection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\eSwipeDirection.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\eSwipeDirection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\eSwipeDirection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:36.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Utility\\Constants.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utility\\Constants.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Utility\\Constants.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utility\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:31.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Utilities\\Utils.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\Utils.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Utilities\\Utils.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:26.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIToggleSound.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIToggleSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIToggleSound.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIToggleSound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIToggleSound.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:20.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIPanelWin.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIPanelWin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIPanelWin.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIPanelWin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIPanelWin.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:17.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIPanelPause.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIPanelPause.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIPanelPause.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIPanelPause.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIPanelPause.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:14.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIPanelMain.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIPanelMain.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIPanelMain.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIPanelMain.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIPanelMain.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:11.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIPanelGameOver.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIPanelGameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIPanelGameOver.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIPanelGameOver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIPanelGameOver.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:08.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UIPanelGame.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIPanelGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIPanelGame.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIPanelGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIPanelGame.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:04.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UIMainManager.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIMainManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIMainManager.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\UIMainManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIMainManager.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:00.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\IMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\IMenu.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\UI\\IMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\IMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:35:57.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainToolMenu.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Editor\\MainToolMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\MainToolMenu.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Editor\\MainToolMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\MainToolMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:35:47.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Controllers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\GameManager.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Controllers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:35:38.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BoardController.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Controllers\\BoardController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\BoardController.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Controllers\\BoardController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\BoardController.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:35:29.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NormalItem.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Board\\NormalItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Board\\NormalItem.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Board\\NormalItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Board\\NormalItem.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:35:23.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Board\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Board\\Item.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Board\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Board\\Item.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:35:19.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Board\\Cell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Board\\Cell.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Board\\Cell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Board\\Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:35:14.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Board\\Board.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Board\\Board.cs",
+              "ToolTip": "C:\\Users\\tranl\\Downloads\\Match3-Unity-Intern-Test2025\\Assets\\Scripts\\Board\\Board.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Board\\Board.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:35:09.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
